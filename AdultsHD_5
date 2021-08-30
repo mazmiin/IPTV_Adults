@@ -1,0 +1,329 @@
+EXTINF:-1 ,鳳凰資訊
+http://live.italkdd.com/cds160/hls/channel002/channel002.m3u8
+
+#EXTINF:-1 ,鳳凰美洲
+http://live.italkdd.com/cds160/hls/channel001/channel001.m3u8
+
+#EXTINF:-1 ,鳳凰香港
+http://live.italkdd.com/cds160/hls/channel016/channel016.m3u8
+
+#EXTINF:-1 ,壹电视新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
+
+#EXTINF:-1 ,民视新闻HD
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+
+#EXTINF:-1 ,TVBS-N
+http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
+
+#EXTINF:-1 ,中天新闻HD
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+
+#EXTINF:-1 ,三立臺灣臺
+http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8
+
+#EXTINF:-1 ,TVBS新聞
+http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
+
+#EXTINF:-1 ,非凡新聞
+http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
+
+#EXTINF:-1 ,東森美洲新聞
+http://live.italkdd.com/cds160/hls/channel019/channel019_2000.m3u8
+
+#EXTINF:-1 ,中天新聞
+http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
+
+#EXTINF:-1 ,中旺電視
+http://live.italkdd.com/cds160/hls/channel008/channel008.m3u8
+
+#EXTINF:-1 ,環球電視
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+
+#EXTINF:-1 ,亞洲旅遊臺
+http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
+
+#EXTINF:-1 ,三立臺灣
+http://live.italkdd.com/cds160/hls/channel021/channel021.m3u8
+
+#EXTINF:-1 ,東森新聞
+http://live.italkdd.com/cds160/hls/channel019/channel019.m3u8
+
+#EXTINF:-1 ,壹新聞備
+http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+
+#EXTINF:-1 ,壹新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
+
+#EXTINF:-1 ,東森美洲臺
+http://live.italkdd.com/cds160/hls/channel020/channel020_2000.m3u8
+
+#EXTINF:-1 ,壹新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+
+#EXTINF:-1 ,天空新聞
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+
+#EXTINF:-1 ,BasTV4K影院
+http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
+
+#EXTINF:-1 ,華視咨訊
+http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
+
+#EXTINF:-1 ,華視新聞
+http://live.italkdd.com/cds160/hls/channel005/channel005.m3u8
+
+#EXTINF:-1 ,臺視新聞
+http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
+
+#EXTINF:-1 ,新加坡亞洲新聞臺
+http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+
+#EXTINF:-1 ,新加坡8頻道
+http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8
+
+#EXTINF:-1 ,新加坡5頻道
+http://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8
+
+#EXTINF:-1 ,越南ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+
+#EXTINF:-1 ,加州音悅臺
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/chunklist.m3u8
+
+#EXTINF:-1 ,WFCHD
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 ,韓國音樂臺
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b928000_sleng.m3u8
+
+#EXTINF:-1 ,優視頻道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+
+#EXTINF:-1 ,澳門立法會
+http://103.233.191.136/tv/_definst_/ch21.live/playlist.m3u8
+
+#EXTINF:-1 ,衛星電視
+http://103.233.191.136/ch3/_definst_/ch3.live/playlist.m3u8
+
+#EXTINF:-1 ,澳視葡文臺
+http://103.233.191.136/ch2/_definst_/ch2.live/playlist.m3u8
+
+#EXTINF:-1 ,澳視澳門
+http://103.233.191.136/ch1/_definst_/ch1.live/playlist.m3u8
+
+#EXTINF:-1 ,信天遊
+http://hc.yinyuetai.com/F8190136EA197DA6F00D511F5F2B2840.flv
+
+#EXTINF:-1 ,環球電影
+http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+
+#EXTINF:-1 ,澳視高清體育
+http://103.233.191.135/ch6/hd_ch6.live/playerlist.m3u8
+
+#EXTINF:-1 ,澳視體育
+http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
+
+#EXTINF:-1 ,澳門衛視
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+
+#EXTINF:-1 ,澳視澳門
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+
+#EXTINF:-1 ,澳門2
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+
+#EXTINF:-1 ,澳門1
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+
+#EXTINF:-1 ,NHK綜合臺
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+
+#EXTINF:-1 ,華劇臺
+http://live.italkdd.com/cds160/hls/channel004/channel004.m3u8
+
+#EXTINF:-1 ,nowtv
+http://live.italkdd.com/cds160/hls/channel003/channel003.m3u8
+
+#EXTINF:-1 ,好萊塢中文備
+http://117.169.120.206:8080/live/fhzixun/1.m3u8
+
+#EXTINF:-1 ,星空衛視備
+http://222.207.48.30/hls/startv.m3u8
+
+#EXTINF:-1 ,本港臺
+http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+
+#EXTINF:-1 ,奇妙77臺
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
+#EXTINF:-1 ,奇妙電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:-1 ,TVBj5
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+
+#EXTINF:-1 ,松视HD
+http://59.120.242.104:9000/live/live6.m3u8
+
+#EXTINF:-1 ,纬来体育HD
+http://59.120.242.104:9000/live/live12.m3u8
+
+#EXTINF:-1 ,纬来日本HD
+http://59.120.242.104:9000/live/live11.m3u8
+
+#EXTINF:-1 ,卫视电影台HD
+http://59.120.242.104:9000/live/live10.m3u8
+
+#EXTINF:-1 ,博斯高球HD
+http://59.120.242.104:9000/live/live9.m3u8
+
+#EXTINF:-1 ,新闻HD
+http://59.120.242.104:9000/live/live8.m3u8
+
+#EXTINF:-1 ,环宇新闻HD
+http://59.120.242.104:9000/live/live13.m3u8
+
+#EXTINF:-1 ,龙华洋片HD
+http://59.120.242.104:9000/live/live5.m3u8
+
+#EXTINF:-1 ,中天新闻HD
+http://59.120.242.104:9000/live/live4.m3u8
+
+#EXTINF:-1 ,年代新闻HD
+http://59.120.242.104:9000/live/live3.m3u8
+
+#EXTINF:-1 ,中文洋片HD
+http://59.120.242.104:9000/live/live1.m3u8
+
+#EXTINF:-1 ,美亚电影HD
+http://59.120.242.104:9000/live/live2.m3u8
+
+#EXTINF:-1 ,台湾寰宇新闻2台
+http://61.216.177.73/sta/ch10119013.m3u8
+
+#EXTINF:-1 ,台湾龙华电影
+http://61.216.177.73/sta/ch10119012.m3u8
+
+#EXTINF:-1 ,台湾龙华经典
+http://61.216.177.73/sta/ch10119014.m3u8
+
+#EXTINF:-1 ,台湾龙华经典
+http://61.218.44.196:8000/main
+
+#EXTINF:-1 ,台湾龙华动画
+http://61.216.177.73/sta/ch10119009.m3u8
+
+#EXTINF:-1 ,台湾龙华影剧
+http://61.216.177.73/sta/ch10119008.m3u8
+
+#EXTINF:-1 ,台湾龙华偶像
+http://61.216.177.73/sta/ch10119007.m3u8
+
+#EXTINF:-1 ,台湾龙华戏剧
+http://61.216.177.73/sta/ch10119006.m3u8
+
+#EXTINF:-1 ,台湾民视新闻
+http://210.61.56.23/hls/ftvtv/index.m3u8
+
+#EXTINF:-1 ,台湾民视新闻
+http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
+
+#EXTINF:-1 ,台湾台视
+http://61.216.177.73/sta/ch10119036.m3u8
+
+#EXTINF:-1 ,台湾台视
+http://live.italkdd.com/cds160/hls/channel012/channel012.m3u8
+
+#EXTINF:-1 ,台湾台视新闻
+http://live.italkdd.com/cds160/hls/channel011/channel011_2000.m3u8
+
+#EXTINF:-1 ,台湾台视新闻
+http://live.italkdd.com/cds160/hls/channel011/channel011.m3u8
+
+#EXTINF:-1 ,台湾台视综合
+http://61.216.177.73/sta/ch10119037.m3u8
+
+#EXTINF:-1 ,台湾台视新闻
+http://61.216.177.73/sta/ch10119038.m3u8
+
+#EXTINF:-1 ,台湾台视财经
+http://61.216.177.73/sta/ch10119039.m3u8
+
+#EXTINF:-1 ,台湾生命电视台
+http://61.216.177.73/sta/ch1865007.m3u8
+
+#EXTINF:-1 ,台湾亲子台
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
+#EXTINF:-1 ,台湾全美台
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+
+#EXTINF:-1 ,台湾天良台
+http://61.216.177.73/sta/ch1865001.m3u8
+
+#EXTINF:-1 ,台湾天映频道
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+
+#EXTINF:-1 ,台湾唯心台
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+
+#EXTINF:-1 ,台湾靖天资讯
+http://61.216.177.73/sta/ch10119024.m3u8
+
+#EXTINF:-1 ,台湾靖洋卡通
+http://61.216.177.73/sta/ch10119027.m3u8
+
+#EXTINF:-1 ,台湾靖天育乐
+http://61.216.177.73/sta/ch10119028.m3u8
+
+#EXTINF:-1 ,台湾靖天综合
+http://61.216.177.73/sta/ch10119029.m3u8
+
+#EXTINF:-1 ,台湾靖天卡通
+http://61.216.177.73/sta/ch10119030.m3u8
+
+#EXTINF:-1 ,台湾靖天国际
+http://61.216.177.73/sta/ch10119031.m3u8
+
+#EXTINF:-1 ,台湾靖天日本
+http://61.216.177.73/sta/ch10119032.m3u8
+
+#EXTINF:-1 ,台湾博斯高球2
+http://61.216.177.73/sta/ch10119015.m3u8
+
+#EXTINF:-1 ,台湾博斯高球
+http://61.216.177.73/sta/ch10119016.m3u8
+
+#EXTINF:-1 ,台湾博斯运动
+http://61.216.177.73/sta/ch10119017.m3u8
+
+#EXTINF:-1 ,台湾博斯运动2
+http://61.216.177.73/sta/ch10119018.m3u8
+
+#EXTINF:-1 ,台湾博斯无限
+http://61.216.177.73/sta/ch10119019.m3u8
+
+#EXTINF:-1 ,台湾博斯魅力
+http://61.216.177.73/sta/ch10119020.m3u8
+
+#EXTINF:-1 ,台湾博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+
+#EXTINF:-1 ,台湾博斯网球
+http://61.216.177.73/sta/ch91865001.m3u8
+
+#EXTINF:-1 ,台湾天下台
+http://live.italkdd.com/cds160/hls/channel017/channel017.m3u8
+
+#EXTINF:-1 ,台湾采昌台
+http://61.216.177.73/sta/ch91865002.m3u8
+
+#EXTINF:-1 ,台湾大爱电视台
+http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
+
+#EXTINF:-1 ,台湾信吉电视
+http://61.216.177.73/sta/ch1865002.m3u8
+
+#EXTINF:-1 ,台湾富立电视台
+http://61.216.177.73/sta/ch1865022.m3u8
