@@ -1,0 +1,168 @@
+EXTINF:-1,Adult live tv1
+http://37.9.0.201:8888
+#EXTINF:-1,Adult live tv2
+http://37.9.0.201:8889
+#EXTINF:-1,Adult live tv3
+http://37.9.0.201:8890
+#EXTINF:-1,Adult live tv4
+http://37.9.0.201:8811
+#EXTINF:-1,Sex Zone (18+)
+http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8
+#EXTINF:-1,VISIT-X TV (18+)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1,Fundorado (18+)
+http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8
+#EXTINF:-1,Cento X Cento TV (18+)
+http://37.9.0.201:8811
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6e32zl4.png" group-title="IPTV",Babestation Xtreme
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/suVpO98.png" group-title="IPTV",Blue Hustler [Off]
+http://78.109.133.126:81/udp/239.1.6.36:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/odOdCDo.png" group-title="IPTV",Brazzers TV Europe [Off]
+http://78.109.133.126:81/udp/239.1.6.40:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Soxm1RO.png" group-title="IPTV",ButGO
+http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/t8XLOQL.png" group-title="IPTV",Candy TV [Off]
+http://95.85.92.240:34040/udp/239.191.254.173:15285
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jFMsYLu.png" group-title="IPTV",Candyman
+http://media.anycaster.tv/candyman/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",DP
+http://62.210.113.177:19000/udp/238.0.100.6:5000
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2ogUFiG.png" group-title="IPTV",Egoist TV [Off]
+http://95.85.92.240:34040/udp/239.191.254.249:15285
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HQJ3q4R.png" group-title="IPTV",Erotic 1
+http://185.93.1.41/erotic1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HQJ3q4R.png" group-title="IPTV",Erotic 2
+http://185.93.1.41/erotic2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HQJ3q4R.png" group-title="IPTV",Erotic 3
+http://185.93.1.41/erotic3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HQJ3q4R.png" group-title="IPTV",Erotic 4
+http://185.93.1.41/erotic4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gs4HBbz.png" group-title="IPTV",FrenchLover TV [Opt-1]
+http://91.211.143.214:3333/play/a006
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gs4HBbz.png" group-title="IPTV",FrenchLover TV [Opt-2]
+http://31.128.132.159:3371/udp/239.1.13.4:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gs4HBbz.png" group-title="IPTV",FrenchLover TV [Opt-3]
+http://95.181.238.7:81/udp/239.191.254.251:15285
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0POW26v.png" group-title="IPTV",FunDorado TV
+http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J0njVq9.png" group-title="IPTV",Girls TV
+http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey TV
+http://edge1.everyon.tv:1935/etv1sb/phd928/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3OQI0IC.png" group-title="IPTV",Hustler HD
+http://s5.telek.me/1392/7458/5d16972e7b77e1a269c3bf5ac21690d8f3aa97b2
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6gckOd1.png" group-title="IPTV",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oU1nwLE.png" group-title="IPTV",Live Sex Latinas
+http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uTqcgtj.png" group-title="IPTV",Night Club [Off]
+http://95.85.92.240:34040/udp/239.191.254.38:15285
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UKmZClv.png" group-title="IPTV",Nuart [Off]
+http://78.111.176.132:8080/
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HwnRSqw.png" group-title="IPTV",O-La-La [Off]
+http://95.85.92.240:34040/udp/239.191.254.161:15285
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6Nr8Bqk.png" group-title="IPTV",Passion XXX
+http://37.9.0.201:8888
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Penthouse Asia
+http://edge1.everyon.tv:1935/etv1sb/phd927/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/m91zS5d.png" group-title="IPTV",Playboy TV [Off]
+http://78.109.133.126:81/udp/239.1.6.39:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ljBWxnA.png" group-title="IPTV",Redlight HD
+http://s5.telek.me/1393/7458/5d16972e7b77e1a269c3bf5ac21690d8f3aa97b2
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H1banjU.png" group-title="IPTV",Russian Night [Off]
+http://78.111.176.132:8082
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kqtyazi.png" group-title="IPTV",Sakura
+http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dPYGYvX.png" group-title="IPTV",The O
+http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 1
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 2
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 3
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Soxm1RO.png" group-title="IPTV",ButGO
+http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",DP
+http://62.210.113.177:19000/udp/238.0.100.6:5000
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0POW26v.png" group-title="IPTV",FunDorado TV
+http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J0njVq9.png" group-title="IPTV",Girls TV
+http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey TV
+http://edge1.everyon.tv:1935/etv1sb/phd928/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3OQI0IC.png" group-title="IPTV",Hustler HD
+http://s5.telek.me/1392/7458/5d16972e7b77e1a269c3bf5ac21690d8f3aa97b2
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6gckOd1.png" group-title="IPTV",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oU1nwLE.png" group-title="IPTV",Live Sex Latinas
+http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6Nr8Bqk.png" group-title="IPTV",Passion XXX
+http://37.9.0.201:8888
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Penthouse Asia
+http://edge1.everyon.tv:1935/etv1sb/phd927/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kqtyazi.png" group-title="IPTV",Sakura
+http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dPYGYvX.png" group-title="IPTV",The O
+http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
